@@ -2,7 +2,7 @@
   "dependencies": {
     "json-server": "^0.17.2"
   },
-  "name": "back-worksop5",
+  "name": "back-todo",
   "version": "1.0.0",
   "main": "src/index.js",
   "devDependencies": {},

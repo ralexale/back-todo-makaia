@@ -1,86 +1,24 @@
 {
-    "Users": [
+    "tasks": [
         {
-            "id": "1",
-            "name": "Daniela",
-            "image": "https://img.freepik.com/vector-gratis/panda-lindo-bambu_138676-3053.jpg?w=2000",
-            "email": "daniela@gmail.com",
-            "password": 1234,
-            "auth": false
+            "id": 1,
+            "title": "Watch the next Marvel Movie",
+            "completed": false
         },
         {
-            "id": "2",
-            "name": "Alejandro",
-            "image": "https://i.pinimg.com/originals/d2/d9/38/d2d938cf5692ee4a5afbc9045049cee8.jpg",
-            "email": "alejandro@gmail.com",
-            "password": 1234,
-            "auth": false
+            "id": 2,
+            "title": "Record the next Video",
+            "completed": false
         },
         {
-            "id": "3",
-            "name": "Andres",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDTiRbOZ4rIpTs6MLczkb-okEozBpC7dBPQ&usqp=CAU",
-            "email": "andres@gmail.com",
-            "password": 1234,
-            "auth": false
-        }
-    ],
-    "pizzas": [
-        {
-            "id": "1",
-            "name": "Hawaiana",
-            "images": [
-                "https://napolicartagena.com/wp-content/uploads/2022/01/La-Pizza-Hawaiana-de-Canada.jpg",
-                "https://i1.wp.com/irecetasfaciles.com/wp-content/uploads/2020/03/pizza-hawaiana.jpg?fit=900%2C675&ssl=1",
-                "https://images.hola.com/imagenes/cocina/recetas/20200120158504/pizza-hawaiana-o-pizza-tropical/0-770-827/pizza-hawaiana-t.jpg?tx=w_680"
-            ],
-            "description": "contiene una base de salsa pomodoro, queso mozzarella fundido y como toppings jamón y piña.",
-            "price": "50.000",
-            "range": "400"
+            "id": 3,
+            "title": "Wash the dishes",
+            "completed": false
         },
         {
-            "id": "2",
-            "name": "Margherita",
-            "images": [
-                "https://cdn.colombia.com/gastronomia/2011/08/25/pizza-margarita-3684-1.jpg",
-                "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/D2KL4RRCRJA7RJC5TNULFZEKR4.jpg",
-                "https://d1kxxrc2vqy8oa.cloudfront.net/wp-content/uploads/2019/05/03141209/RFB-2504-3-pizzamargarita.jpg"
-            ],
-            "description": "Nuestra pizza italiana margherita tiene muy pocos ingredientes para ser tan sabrosa. Se compone de sólo tres elementos básicos: masa, salsa de tomate y queso mozzarella",
-            "price": "50.000",
-            "range": "400"
-        },
-        {
-            "id": "3",
-            "name": "Napolitana",
-            "images": [
-                "https://cdn0.recetasgratis.net/es/posts/5/2/6/pizza_napolitana_32625_orig.jpg",
-                "https://www.johaprato.com/files/pizza-napolitana.jpg",
-                "https://www.johaprato.com/files/styles/flexslider_full/public/pizza_napolitana_especial.jpg?itok=kC5wTT0U"
-            ],
-            "description": "Los principales ingredientes de nuestra pizza napolitana son: harina (00), tomate, mo y orégano. La salsa de tomate y el orégano, de hecho, dan un sabor adicional tradicional a este delicioso plato italiano.",
-            "price": "50.000",
-            "range": "400"
-        },
-        {
-            "id": "4",
-            "name": "Española",
-            "images": [
-                "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-                "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
-                "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80"
-            ],
-            "description": "Todo comienza con nuestra masa artesanal doblemente fermentada cubierta en salsa de tomate pomodoro italiano. Exquisito queso mozzarella, delicioso chorizo ahumado, aceitunas negras y carne de vacuno",
-            "price": "50.000",
-            "range": "400"
-        }
-    ],
-    "orders": [
-        {
-            "id": "1",
-            "quantity": "",
-            "name": "",
-            "price": ""
+            "id": 4,
+            "title": "Study 2 hours",
+            "completed": false
         }
     ]
 }
